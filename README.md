@@ -10,6 +10,7 @@ new Person({
     title  : 'Full Stack Developer',
     email  : 'nicolasplacente@gmail.com',
     website: 'https://nicoplacente.netlify.app/',
+    phone: "2926402409"
 })
 ```
 
@@ -18,8 +19,8 @@ new Person({
 new Skills({
     languages   : ["JavaScript", "TypeScript", "SQL", "CSS", "HTML", "Python"],
     database: [ "MongoDB", "PostgreSQL", "SQLite" ],
-    backend: [ "Nodejs", "Express", "Sequelize", "Mongoose" ],
-    frontend: [ "React", "Redux", "Hooks", "Tailwind", "Astro", "SCSS", "Nextjs" ]
+    backend: [ "Nodejs", "Express", "Sequelize", "Mongoose", "Prisma", "Nestjs", "Nextjs" ],
+    frontend: [ "React", "Redux Toolkit", "Tailwind", "Astro", "SCSS", "Nextjs" ]
 })
 ```
 
