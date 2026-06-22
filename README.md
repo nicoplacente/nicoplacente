@@ -5,10 +5,12 @@
 
 🎯 **Sobre mí**
 
-- 🎧 Productor musical desde 2017.
-- 💻 Desarrollador frontend con experiencia en **Next.js**, **Astro**, **TypeScript**, **Tailwind**, y más.
-- 📹 Creador de contenido en YouTube sobre producción musical y programación.
+- 💻 Desarrollador fullstack con experiencia en **Next.js**, **Astro**, **TypeScript**, **Tailwind**, **PostgreSQL** y más.
+- 📹 Creador de contenido, editor y publicista digital.
+- 🎧 Productor musical.
+- 🚒 Bombero Voluntario.
 - 👨‍👧 Buscando oportunidades.
+
 
 ---
 
