@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola, soy Nico Placente! 👋</h1>
-<h3 align="center">Desarrollador Fullstack especializado en Frontend | Productor Musical | Creador de Contenido</h3>
+<h3 align="center">Founder of Codeluxe | FullStack Developer | Next.js, Tailwind, Prisma, PostgreSQL | AI Automation (n8n) | UX/UI</h3>
 
 ---
 
